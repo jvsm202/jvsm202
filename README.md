@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, me chamo João Victor Sousa!
 
-<!--
-**jvsm202/jvsm202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 21 anos, sou estudante de Ciência da Computação com foco em desenvolvimento Back-End. Possuo inglês intermediário e procuro minha primeira oportunidade no mercado de trabalho.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente aprendendo
+
+- Java
+- Git & GitHub
+- SQL & MySQL
+
+---
+## Contatos
+
+- Email: [sousa.joaovictor30@gmail.com]
+- Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-victor-213835264](https://www.linkedin.com/in/jo%C3%A3o-victor-213835264)
